@@ -11,7 +11,7 @@ export default function Footer() {
           Amaka Onwuli{" "}
         </a>{" "}
         , it is open-sourced on{" "}
-        <a href="https://github.com/MadameAmaka/My-Weather-App" target="_blank" rel="noreferrer">
+        <a href="https://github.com/MadameAmaka/ReactWeatherApp" target="_blank" rel="noreferrer">
           {" "}
           Github
         </a>{" "}
